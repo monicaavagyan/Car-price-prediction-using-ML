@@ -1,5 +1,5 @@
-# Model Building, Evaluation and Validation
-## Project:  Car-price-prediction
+
+# Project:  Car-price-prediction
 In the jupyter file  the code explanation  written in Armenian.
 ### Install
 
